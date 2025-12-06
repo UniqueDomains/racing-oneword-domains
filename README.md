@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.RACING one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.racing        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.racing      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.racing        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.racing      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.racing  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.racing      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.racing  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.RACING one word domai
 | abatic.racing     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.racing    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.racing   | available | 50       | 1%     | 8      |           |         |         |
-| abc.racing        | available | 102      | 41%    | 3      |           |         |         |
+| abc.racing        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.racing  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.racing  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.racing | available | 56       | 1%     | 10     |           |         |         |
