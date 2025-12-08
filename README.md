@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .RACING one-word domains still available to buy.
 
-This dataset contains 4,876 .RACING one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,303 .RACING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.RACING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=racing-oneword-domains&utm_content=description.top) (4,872) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.RACING one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/racing-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.csv"><b>⬇️ CSV (4.88K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.json"><b>⬇️ JSON (4.88K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.csv"><b>⬇️ CSV (5.3K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.json"><b>⬇️ JSON (5.3K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=racing-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.87K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.racing        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.racing      | premium   | 88       | 32%    | 5      |           |         |         |
+| aaa.racing        | premium   | 70       | 35%    | 3      |           |         |         |
+| aaron.racing      | premium   | 88       | 28%    | 5      |           |         |         |
 | abactinal.racing  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.racing      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.racing  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.RACING one word domai
 | abatic.racing     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.racing    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.racing   | available | 50       | 1%     | 8      |           |         |         |
-| abc.racing        | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.racing        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.racing  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.racing  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.racing | available | 56       | 1%     | 10     |           |         |         |
@@ -44,18 +44,18 @@ If you want to search & filters the complete database of [.RACING one word domai
 | aberrant.racing   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.racing    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.racing  | available | 54       | 3%     | 9      |           |         |         |
+| abide.racing      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.racing    | available | 106      | 5%     | 7      |           |         |         |
 | abient.racing     | available | 54       | 1%     | 6      |           |         |         |
-| ability.racing    | available | 92       | 18%    | 7      |           |         |         |
-| abit.racing       | available | 66       | 16%    | 5      |           |         |         |
+| ability.racing    | available | 92       | 16%    | 7      |           |         |         |
+| abit.racing       | available | 66       | 12%    | 5      |           |         |         |
 | abject.racing     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.racing     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.racing  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/racing-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.csv"><b>⬇️ CSV (4.88K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.json"><b>⬇️ JSON (4.88K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.csv"><b>⬇️ CSV (5.3K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/racing-oneword-domains/blob/main/racing.json"><b>⬇️ JSON (5.3K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=racing-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.87K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.RACING one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
