@@ -72,7 +72,7 @@ print(df.head())
 | seventeen.racing  | premium   | $125      | $125          | 84             | 62     | 9      | name.com                                            |
 | building.racing   | available | $16.98    | —             | 74             | 31     | 8      | namecheap                                           |
 | bot.racing        | resell    | —         | —             | 98             | 53     | 3      | Squarespace Domains II LLC                          |
-| free.racing       | premium   | $125      | $125          | 88             | 59     | 4      | name.com                                            |
+| free.racing       | premium   | $125      | $125          | 88             | 57     | 4      | name.com                                            |
 | delivery.racing   | available | $16.98    | —             | 72             | 31     | 8      | namecheap                                           |
 | drone.racing      | resell    | —         | —             | 70             | 45     | 5      | GoDaddy Online Services Cayman Islands Ltd.         |
 | good.racing       | premium   | $125      | $125          | 82             | 55     | 4      | name.com                                            |
