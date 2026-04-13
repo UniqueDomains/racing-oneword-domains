@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .racing one-word domains from Uniq
 
 **Public extract:** 9,773 rows · **Live catalog:** 9,773 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/racing`  
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | good.racing       | premium   | $125      | $125          | 82             | 55     | 4      | name.com                                            |
 | curative.racing   | available | $16.98    | —             | 92             | 27     | 8      | namecheap                                           |
 | russia.racing     | resell    | —         | —             | 90             | 43     | 6      | Key-Systems LLC                                     |
-| alpha.racing      | premium   | $125      | $125          | 90             | 54     | 5      | name.com                                            |
+| business.racing   | premium   | $130      | $130          | 100            | 53     | 8      | namecheap                                           |
 | remedial.racing   | available | $16.98    | —             | 86             | 24     | 8      | namecheap                                           |
 | autonomous.racing | resell    | —         | —             | 76             | 43     | 10     | Dynadot Inc                                         |
-| business.racing   | premium   | $130      | $130          | 100            | 53     | 8      | namecheap                                           |
+| alpha.racing      | premium   | $125      | $125          | 90             | 53     | 5      | name.com                                            |
 | banking.racing    | available | $16.98    | —             | 76             | 23     | 7      | namecheap                                           |
 | gaming.racing     | resell    | —         | —             | 76             | 38     | 6      | West263 International Limited                       |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
