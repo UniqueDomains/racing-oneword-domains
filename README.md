@@ -1,22 +1,22 @@
-# Available .RACING One-Word Domains (9,773)
+# Available .RACING One-Word Domains (12,290)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C773%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C773%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C290%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .racing one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .racing one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,290 domains** on the canonical page below.
 
-**Public extract:** 9,773 rows · **Live catalog:** 9,773 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,290 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/racing`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .RACING one-word domai
 
 ### Files
 
-- `racing.csv` — public CSV extract (9,773 rows)
-- `racing.json` — public JSON extract (9,773 rows)
+- `racing.csv` — public CSV extract (1,000 rows)
+- `racing.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| realestate.racing | available | $16.98    | —             | —              | 40     | 11     | namecheap                                           |
-| taiwan.racing     | resell    | —         | —             | 66             | 93     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| converse.racing   | premium   | $125      | $125          | 64             | 73     | 8      | name.com                                            |
-| account.racing    | available | $16.98    | —             | 98             | 34     | 7      | namecheap                                           |
-| space.racing      | resell    | —         | —             | 80             | 61     | 5      | NameCheap, Inc.                                     |
-| seventeen.racing  | premium   | $125      | $125          | 84             | 62     | 9      | name.com                                            |
-| building.racing   | available | $16.98    | —             | 74             | 31     | 8      | namecheap                                           |
-| bot.racing        | resell    | —         | —             | 98             | 53     | 3      | Squarespace Domains II LLC                          |
-| free.racing       | premium   | $125      | $125          | 88             | 57     | 4      | name.com                                            |
-| delivery.racing   | available | $16.98    | —             | 72             | 31     | 8      | namecheap                                           |
-| drone.racing      | resell    | —         | —             | 70             | 45     | 5      | GoDaddy Online Services Cayman Islands Ltd.         |
-| good.racing       | premium   | $125      | $125          | 82             | 55     | 4      | name.com                                            |
-| curative.racing   | available | $16.98    | —             | 92             | 27     | 8      | namecheap                                           |
-| russia.racing     | resell    | —         | —             | 90             | 43     | 6      | Key-Systems LLC                                     |
-| business.racing   | premium   | $130      | $130          | 100            | 53     | 8      | namecheap                                           |
-| remedial.racing   | available | $16.98    | —             | 86             | 24     | 8      | namecheap                                           |
-| autonomous.racing | resell    | —         | —             | 76             | 43     | 10     | Dynadot Inc                                         |
-| alpha.racing      | premium   | $125      | $125          | 90             | 53     | 5      | name.com                                            |
-| banking.racing    | available | $16.98    | —             | 76             | 23     | 7      | namecheap                                           |
-| gaming.racing     | resell    | —         | —             | 76             | 38     | 6      | West263 International Limited                       |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| matcha.racing       | available | $16.98    | —             | 86             | 39     | 6      | namecheap |
+| makers.racing       | premium   | $116      | $116          | 62             | 67     | 6      | namesilo  |
+| prompts.racing      | available | $11.99    | $11.99        | 54             | 39     | 7      | namesilo  |
+| travelers.racing    | premium   | $116      | $116          | 58             | 61     | 9      | namesilo  |
+| tokens.racing       | available | $11.99    | $11.99        | 51             | 36     | 6      | namesilo  |
+| RedSox.racing       | premium   | $140      | $140          | 72             | 60     | 7      | namecheap |
+| systems.racing      | available | $16.98    | —             | 46             | 27     | 7      | namecheap |
+| robots.racing       | premium   | $116      | $116          | 62             | 47     | 6      | namesilo  |
+| whats.racing        | available | $11.99    | $11.99        | 58             | 24     | 5      | namesilo  |
+| lets.racing         | premium   | $125      | —             | 77             | 39     | 4      | name.com  |
+| loans.racing        | available | $11.99    | $11.99        | 58             | 24     | 5      | namesilo  |
+| stories.racing      | premium   | $125      | —             | 58             | 36     | 7      | name.com  |
+| deeplearning.racing | available | $16.98    | —             | 74             | 23     | 13     | namecheap |
+| homes.racing        | premium   | $125      | —             | 86             | 34     | 5      | name.com  |
+| investors.racing    | available | $16.98    | —             | 60             | 23     | 9      | namecheap |
+| Cats.racing         | premium   | $140      | $140          | 59             | 33     | 4      | namecheap |
+| machines.racing     | available | $16.98    | —             | 56             | 22     | 8      | namecheap |
+| trends.racing       | premium   | $125      | —             | 60             | 32     | 6      | name.com  |
+| distributed.racing  | available | $16.98    | —             | 64             | 21     | 11     | namecheap |
+| solutions.racing    | premium   | $125      | —             | 56             | 31     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,773-row public sample | 9,773 live domains                               |
+| 1,000-row public sample | 12,290 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
