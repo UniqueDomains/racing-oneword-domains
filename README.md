@@ -79,11 +79,11 @@ print(df.head())
 | investors.racing    | available | $16.98    | —             | 60             | 23     | 9      | namecheap |
 | solutions.racing    | premium   | $125      | —             | 56             | 31     | 9      | name.com  |
 | machines.racing     | available | $16.98    | —             | 56             | 22     | 8      | namecheap |
-| inspiration.racing  | premium   | $125      | —             | 88             | 30     | 11     | name.com  |
-| distributed.racing  | available | $16.98    | —             | 64             | 21     | 11     | namecheap |
 | rewards.racing      | premium   | $116      | $116          | 62             | 30     | 7      | namesilo  |
-| apartments.racing   | available | $11.99    | $11.99        | 60             | 21     | 10     | namesilo  |
+| distributed.racing  | available | $16.98    | —             | 64             | 21     | 11     | namecheap |
 | videos.racing       | premium   | $125      | —             | 52             | 30     | 6      | name.com  |
+| apartments.racing   | available | $11.99    | $11.99        | 60             | 21     | 10     | namesilo  |
+| heroes.racing       | premium   | $125      | —             | 68             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
