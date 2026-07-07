@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .racing one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,744 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $65.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $79.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/racing`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/racing`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RACING one-word domai
 
 ### Files
 
-- `racing.csv` — public CSV extract (1,000 rows)
-- `racing.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `racing.csv`, public CSV extract (1,000 rows)
+- `racing.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| matcha.racing       | available | $16.98    | —             | 86             | 39     | 6      | namecheap |
-| travelers.racing    | premium   | $116      | $116          | 58             | 61     | 9      | namesilo  |
-| prompts.racing      | available | $11.99    | $11.99        | 54             | 39     | 7      | namesilo  |
-| RedSox.racing       | premium   | $140      | $140          | 72             | 60     | 7      | namecheap |
-| tokens.racing       | available | $11.99    | $11.99        | 51             | 36     | 6      | namesilo  |
-| robots.racing       | premium   | $116      | $116          | 62             | 47     | 6      | namesilo  |
-| gamers.racing       | available | $11.99    | $11.99        | 62             | 24     | 6      | namesilo  |
-| lets.racing         | premium   | $125      | —             | 77             | 39     | 4      | name.com  |
-| whats.racing        | available | $11.99    | $11.99        | 58             | 24     | 5      | namesilo  |
-| Cats.racing         | premium   | $140      | $140          | 59             | 33     | 4      | namecheap |
-| deeplearning.racing | available | $16.98    | —             | 74             | 23     | 13     | namecheap |
-| trends.racing       | premium   | $125      | —             | 60             | 32     | 6      | name.com  |
-| investors.racing    | available | $16.98    | —             | 60             | 23     | 9      | namecheap |
-| solutions.racing    | premium   | $125      | —             | 56             | 31     | 9      | name.com  |
-| machines.racing     | available | $16.98    | —             | 56             | 22     | 8      | namecheap |
-| rewards.racing      | premium   | $116      | $116          | 62             | 30     | 7      | namesilo  |
-| distributed.racing  | available | $16.98    | —             | 64             | 21     | 11     | namecheap |
-| videos.racing       | premium   | $125      | —             | 52             | 30     | 6      | name.com  |
-| apartments.racing   | available | $11.99    | $11.99        | 60             | 21     | 10     | namesilo  |
-| heroes.racing       | premium   | $125      | —             | 68             | 29     | 6      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| gave.racing   | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                      |
+| gaming.racing | resell    | —         | —             | high           | low    | 6      | West263 International Limited |
+| art.racing    | premium   | $130      | $130          | high           | medium | 3      | namecheap                     |
+| vary.racing   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
+| bad.racing    | premium   | $116      | $116          | high           | medium | 3      | namesilo                      |
+| went.racing   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
+| BBC.racing    | premium   | $116      | $116          | high           | medium | 3      | namesilo                      |
+| xiii.racing   | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                      |
+| btw.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
+| aftuh.racing  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| cap.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
+| among.racing  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| egg.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
+| annoy.racing  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
+| Eid.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
+| banal.racing  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| had.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
+| began.racing  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| ham.racing    | premium   | $116      | $116          | medium         | low    | 3      | namesilo                      |
+| forth.racing  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .racing domains. That gives it a clear niche profile: direct relevance for motorsport, cycling, horse racing, sim racing, racing media, events, and category-specific brands. Examples such as print.racing, key.racing, estimate.racing, and crucial.racing show the range from literal keywords to broader brandable words. When comparing these domains, focus on whether the word becomes more credible or memorable with .racing attached. The median ask is 65.49, but low entry price alone is not enough. A strong choice should read naturally, match a real racing use case, and avoid obvious trademark or interpretation issues.
+This list covers one-word and short-phrase domains built on the .racing extension, spanning playful call-outs, pop-culture nods, and everyday phrases rather than motorsport-specific terms. With a median asking price near $79, most names in this set are affordable enough to shortlist quickly, while a large pool size gives room to scan for spread and renewal economics before committing.
 
-- Favor words that become clearer when paired with .racing
-- Check whether the term suits a real racing niche or audience
-- Use price discipline; median ask is 65.49
-- Avoid names with likely trademark or ambiguity risk
+- 12,744 one-word .racing domains available now
+- Median asking price near $79 across the set
+- Playful, brandable names — not limited to motorsport
+- Compare renewal costs before locking in a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
