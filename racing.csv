@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8b430c94-6289-40f7-ac65-64c0351d2b05,atonal.racing,available,11.99,11.99,low,low,6,namesilo,,,07/08/2026 13:46
 08f3cec7-eb8c-4e99-af38-51095c31433a,actively.racing,premium,116,116,medium,low,8,namesilo,,,
 ac769830-54dd-4295-a03e-ceabc6dfaacb,closeofbusiness.racing,available,11.99,11.99,high,low,17,namesilo,,,
-8f1970ff-8eba-4c12-b165-347ed4bbc4eb,primitive.racing,premium,116,116,high,low,9,namesilo,,,
+8f1970ff-8eba-4c12-b165-347ed4bbc4eb,primitive.racing,premium,130,130,high,low,9,namecheap,,,17/09/2026 10:27
 d8d4773f-9fc2-4060-9b33-6fbf8f0f5b56,employer.racing,available,11.99,11.99,high,low,8,namesilo,,,
 5bcd3a51-be71-438d-9200-00a27a01b61d,potato.racing,premium,116,116,high,low,6,namesilo,,,
 2336149f-2d64-410b-996f-4c719435711c,discomfort.racing,available,11.99,11.99,high,low,10,namesilo,,,
@@ -218,7 +218,7 @@ f1e86539-7346-41b2-8082-4c4c222cd2d2,increasing.racing,available,11.99,11.99,hig
 6ce3538a-a0fd-49f0-b87c-c97ff4079be8,stillborn.racing,available,11.99,11.99,low,low,9,namesilo,,,
 af79de4c-8016-494b-ba33-67ffc43a33a9,comforted.racing,available,11.99,11.99,high,low,9,namesilo,,,
 34da52f7-6cf7-482a-8a74-d4649b0de3aa,airmarshal.racing,premium,116,116,high,low,11,namesilo,,,
-e45e9f3b-d5dc-4a9c-a56a-31acc2495669,signin.racing,available,11.99,11.99,high,low,7,namesilo,,,
+e45e9f3b-d5dc-4a9c-a56a-31acc2495669,signin.racing,available,11.99,11.99,medium,low,7,namesilo,,,17/09/2026 03:42
 02c4c784-ff72-463e-a351-d6061f93b2cc,usage.racing,available,11.99,11.99,high,low,5,namesilo,,,
 2e4eb1bc-da25-4c38-8fb4-07a1c331abf2,demoniac.racing,available,11.99,11.99,low,low,8,namesilo,,,
 e1a88ede-77d5-4af1-8dfb-ef2a9c4962cf,builtin.racing,available,11.99,11.99,high,low,8,namesilo,,,
@@ -308,7 +308,7 @@ c6ef1d32-1478-4acf-99a5-4cd922185d63,whitesauce.racing,available,11.99,11.99,low
 5c652f5b-2a38-4231-adb9-5ec2b7693880,Americas.racing,premium,625,,medium,low,8,name.com,,,
 9b2e703d-9a26-4449-91db-ddf5751a7dbb,brute.racing,premium,116,116,low,low,5,namesilo,,,
 cfc88906-2de9-4c59-827b-b57913dddd59,canon.racing,premium,116,116,medium,medium,5,namesilo,,,14/09/2026 03:48
-927db23f-b11d-41e3-a841-2c1fe7d3b8f2,windmill.racing,premium,125,,medium,low,9,name.com,,,
+927db23f-b11d-41e3-a841-2c1fe7d3b8f2,windmill.racing,premium,116,116,low,low,9,namesilo,,,17/09/2026 13:01
 56b3d322-52ef-4463-a607-b90e74a6a24d,advisory.racing,available,11.99,11.99,medium,low,8,namesilo,,,
 d1622877-7a8d-433e-af27-7d3d7a10eef1,thereagain.racing,available,16.98,,low,low,11,namecheap,,,
 e02a4b17-9c71-4acf-92ec-5f4e77c29ce8,savage.racing,premium,116,116,medium,low,6,namesilo,,,08/08/2026 15:36
