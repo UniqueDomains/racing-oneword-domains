@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .racing one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,626 domains · **Median ask:** $53.98 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/racing`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,11 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| just.racing   | premium   | $130      | $130          | high           | medium | 4      | namecheap                     |
+| time.racing   | premium   | $116      | $116          | high           | medium | 4      | namesilo                      |
+| fancy.racing  | premium   | $116      | $116          | high           | low    | 5      | namesilo                      |
+| soft.racing   | premium   | $125      | $125          | high           | low    | 4      | name.com                      |
+| fuck.racing   | available | —         | —             | high           | medium | 4      | —                             |
 | gave.racing   | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                      |
 | gaming.racing | resell    | —         | —             | high           | low    | 6      | West263 International Limited |
 | art.racing    | premium   | $116      | $116          | medium         | low    | 3      | namesilo                      |
@@ -79,11 +84,6 @@ print(df.head())
 | egg.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
 | aleut.racing  | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                      |
 | eid.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| amnic.racing  | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                      |
-| had.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| among.racing  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
-| ham.racing    | premium   | $116      | $116          | medium         | low    | 3      | namesilo                      |
-| annoy.racing  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
