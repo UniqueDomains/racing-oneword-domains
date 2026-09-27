@@ -1,10 +1,10 @@
-# Available .RACING One-Word Domains (33,538)
+# Available .RACING One-Word Domains (23,920)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C538%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C920%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .racing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,538 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,920 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,538 domains · **Median ask:** $54.12 · **High-demand under $2,500:** 27
+**Public extract:** 1,000 rows · **Live catalog:** 23,920 domains · **Median ask:** $72.35 · **High-demand under $2,500:** 51
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/racing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| bury.racing   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| gaming.racing | resell    | —         | —             | high           | low    | 6      | West263 International Limited |
-| and.racing    | premium   | $116      | $116          | high           | medium | 3      | namesilo                      |
-| fold.racing   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| ash.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| gave.racing   | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                      |
-| ass.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| took.racing   | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                      |
-| btw.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| vary.racing   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| cap.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| went.racing   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| clx.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| wife.racing   | available | $16.98    | —             | high           | low    | 4      | namecheap                     |
-| cxl.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| xcii.racing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap                     |
-| dad.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| aleut.racing  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
-| egg.racing    | premium   | $116      | $116          | high           | low    | 3      | namesilo                      |
-| aloof.racing  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| anas.racing | available | $12.98    | $16.98        | high           | low    | 4      | namecheap |
+| ask.racing  | premium   | $116      | $116          | high           | medium | 3      | namesilo  |
+| ayin.racing | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| bay.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| bade.racing | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| cxv.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| coxa.racing | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| dad.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| erse.racing | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap |
+| den.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| idly.racing | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| eon.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| lies.racing | available | $16.98    | —             | medium         | low    | 4      | namecheap |
+| fab.racing  | premium   | $125      | $125          | high           | low    | 3      | name.com  |
+| tbsp.racing | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap |
+| had.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| tiff.racing | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| hop.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| tolu.racing | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| hut.racing  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,538 live domains                        |
+| 1,000-row public sample | 23,920 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 27 high-demand names under $2,500          |
+| Basic exported fields   | 51 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RACING One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
